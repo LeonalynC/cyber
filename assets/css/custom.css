@@ -1,0 +1,55 @@
+/* Global styles */
+body {
+    font-family: 'Georgia', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7; /* Soft background color */
+}
+
+/* Header styles */
+header {
+    background-color: #ffcccc; /* Soft pink header */
+    color: #333;
+    padding: 20px;
+    border-bottom: 2px solid #ff99cc; /* Light pink border */
+}
+
+/* Main content styles */
+main {
+    padding: 20px;
+}
+
+/* Footer styles */
+footer {
+    background-color: #ffcccc; /* Soft pink footer */
+    color: #333;
+    padding: 20px;
+    border-top: 2px solid #ff99cc; /* Light pink border */
+}
+
+/* Text styles */
+h1, h2, h3 {
+    font-family: 'Lobster', cursive; /* Elegant font for headings */
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+/* Link styles */
+a {
+    color: #ff99cc; /* Pink links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Image styles */
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px; /* Rounded corners for images */
+}
